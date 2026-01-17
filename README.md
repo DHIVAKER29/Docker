@@ -14,20 +14,26 @@
 | 04 | [Docker Networking](./04-Docker-Networking.md) | ✅ Complete | Container communication |
 | 05 | [Docker Volumes](./05-Docker-Volumes.md) | ✅ Complete | Persistent data storage |
 | 06 | [Docker Compose](./06-Docker-Compose.md) | ✅ Complete | Multi-container applications |
-| 07 | Multi-Stage Builds | ⏳ Pending | Image optimization |
-| 08 | Docker Security | ⏳ Pending | Security best practices |
-| 09 | Resource Management | ⏳ Pending | CPU, memory limits |
-| 10 | Troubleshooting | ⏳ Pending | Debugging containers |
+| 07 | [Multi-Stage Builds](./07-Multi-Stage-Builds.md) | ✅ Complete | Image optimization |
+| 08 | [Docker Security](./08-Docker-Security.md) | ✅ Complete | Security best practices |
+| 09 | [Resource Management](./09-Resource-Management.md) | ✅ Complete | CPU, memory limits |
+| 10 | [Troubleshooting](./10-Troubleshooting.md) | ✅ Complete | Debugging containers |
+| 11 | [Docker Registry](./11-Docker-Registry.md) | 📖 Self-Study | Pushing/pulling images, tagging strategies |
+| 12 | [Docker Internals](./12-Docker-Internals.md) | 📖 Self-Study | Namespaces, cgroups, runtimes |
+| 13 | [Advanced Dockerfile](./13-Advanced-Dockerfile.md) | 📖 Self-Study | BuildKit, ARG, cache mounts, Buildx |
+| 14 | [Logging & Monitoring](./14-Logging-Monitoring.md) | 📖 Self-Study | Log drivers, health checks, monitoring |
+| 15 | [Docker in CI/CD](./15-Docker-CICD.md) | 📖 Self-Study | GitHub Actions, GitLab CI, Jenkins |
+| 16 | [Production Checklist](./16-Production-Checklist.md) | 📖 Self-Study | Complete production readiness guide |
 
 ### Phase 2: Kubernetes Fundamentals (Coming Soon)
 
 | # | Topic | Status |
 |---|-------|--------|
-| 11 | Why Kubernetes? | ⏳ Pending |
-| 12 | Kubernetes Architecture | ⏳ Pending |
-| 13 | kubectl Mastery | ⏳ Pending |
-| 14 | Pods | ⏳ Pending |
-| 15 | Deployments & ReplicaSets | ⏳ Pending |
+| 17 | Why Kubernetes? | ⏳ Pending |
+| 18 | Kubernetes Architecture | ⏳ Pending |
+| 19 | kubectl Mastery | ⏳ Pending |
+| 20 | Pods | ⏳ Pending |
+| 21 | Deployments & ReplicaSets | ⏳ Pending |
 | ... | ... | ... |
 
 ---
